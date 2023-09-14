@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS lock_it_up;
+CREATE DATABASE lock_it_up;
